@@ -10,6 +10,9 @@ https://mybinder.org/v2/gh/dinofranklin/conda/master?filepath=index.ipynb
 
 
 ## Notes
+
+This repository is a fork from https://github.com/binder-examples/conda modified exclusevely to support GBC063/UFU classes.
+
 The `environment.yml` file should list all Python libraries on which your notebooks
 depend, specified as though they were created using the following `conda` commands:
 
