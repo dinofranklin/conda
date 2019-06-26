@@ -12,4 +12,4 @@ dependencies:
   - bokeh
   - dask
   - scikit-learn==0.21.2
-  - graphiviz
+  
